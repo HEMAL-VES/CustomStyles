@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E33E808E1EE906B900B4E6F0"
-               BuildableName = "CustomStyles.app"
-               BlueprintName = "CustomStyles"
+               BlueprintIdentifier = "E33E80BC1EE907B300B4E6F0"
+               BuildableName = "CustomStyles1.app"
+               BlueprintName = "CustomStyles1"
                ReferencedContainer = "container:CustomStyles.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,23 +28,13 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E33E80A21EE906B900B4E6F0"
-               BuildableName = "CustomStylesTests.xctest"
-               BlueprintName = "CustomStylesTests"
-               ReferencedContainer = "container:CustomStyles.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E33E808E1EE906B900B4E6F0"
-            BuildableName = "CustomStyles.app"
-            BlueprintName = "CustomStyles"
+            BlueprintIdentifier = "E33E80BC1EE907B300B4E6F0"
+            BuildableName = "CustomStyles1.app"
+            BlueprintName = "CustomStyles1"
             ReferencedContainer = "container:CustomStyles.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -65,9 +55,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E33E808E1EE906B900B4E6F0"
-            BuildableName = "CustomStyles.app"
-            BlueprintName = "CustomStyles"
+            BlueprintIdentifier = "E33E80BC1EE907B300B4E6F0"
+            BuildableName = "CustomStyles1.app"
+            BlueprintName = "CustomStyles1"
             ReferencedContainer = "container:CustomStyles.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -84,9 +74,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E33E808E1EE906B900B4E6F0"
-            BuildableName = "CustomStyles.app"
-            BlueprintName = "CustomStyles"
+            BlueprintIdentifier = "E33E80BC1EE907B300B4E6F0"
+            BuildableName = "CustomStyles1.app"
+            BlueprintName = "CustomStyles1"
             ReferencedContainer = "container:CustomStyles.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

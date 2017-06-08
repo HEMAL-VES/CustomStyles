@@ -1,0 +1,15 @@
+{
+    "styles": {
+        "background-color": "#f4c544",
+        "text-color": "#f4f4f4",
+        "font-name": "Arial-BoldItalicMT",
+        "font-size": 18,
+        "corner-radius": 15
+    },
+    "image": {
+        "main": "rabbit",
+        "chevron": "chevron"
+    },
+    "animation": false,
+    "text": "App 2"
+}

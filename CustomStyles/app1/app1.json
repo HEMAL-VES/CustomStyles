@@ -1,0 +1,15 @@
+{
+    "styles": {
+        "background-color": "#d8dcff",
+        "text-color": "#53e6da",
+        "font-name": "AmericanTypewriter",
+        "font-size": 16,
+        "corner-radius": 30
+    },
+    "image": {
+        "main": "horse",
+        "chevron": "chevron"
+    },
+    "animation": true,
+    "text": "App 1"
+}

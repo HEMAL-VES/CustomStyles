@@ -1,0 +1,15 @@
+{
+    "styles": {
+        "background-color": "#ff0000",
+        "text-color": "#20979d",
+        "font-name": "AvenirNextCondensed-Medium",
+        "font-size": 24,
+        "corner-radius": 25
+    },
+    "image": {
+        "main": "eagle",
+        "chevron": "chevron"
+    },
+    "animation": true,
+    "text": "App 3"
+}
